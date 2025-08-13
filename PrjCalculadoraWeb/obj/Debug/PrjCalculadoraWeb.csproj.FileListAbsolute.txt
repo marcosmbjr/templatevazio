@@ -1,0 +1,7 @@
+G:\Rangel\Sistemas WEB 2023\PrjCalculadoraWeb\PrjCalculadoraWeb\bin\PrjCalculadoraWeb.dll.config
+G:\Rangel\Sistemas WEB 2023\PrjCalculadoraWeb\PrjCalculadoraWeb\bin\PrjCalculadoraWeb.dll
+G:\Rangel\Sistemas WEB 2023\PrjCalculadoraWeb\PrjCalculadoraWeb\bin\PrjCalculadoraWeb.pdb
+G:\Rangel\Sistemas WEB 2023\PrjCalculadoraWeb\PrjCalculadoraWeb\obj\Debug\PrjCalculadoraWeb.csproj.AssemblyReference.cache
+G:\Rangel\Sistemas WEB 2023\PrjCalculadoraWeb\PrjCalculadoraWeb\obj\Debug\PrjCalculadoraWeb.csproj.CoreCompileInputs.cache
+G:\Rangel\Sistemas WEB 2023\PrjCalculadoraWeb\PrjCalculadoraWeb\obj\Debug\PrjCalculadoraWeb.dll
+G:\Rangel\Sistemas WEB 2023\PrjCalculadoraWeb\PrjCalculadoraWeb\obj\Debug\PrjCalculadoraWeb.pdb
