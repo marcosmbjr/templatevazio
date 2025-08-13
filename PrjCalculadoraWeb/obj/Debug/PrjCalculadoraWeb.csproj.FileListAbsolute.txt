@@ -5,3 +5,10 @@ G:\Rangel\Sistemas WEB 2023\PrjCalculadoraWeb\PrjCalculadoraWeb\obj\Debug\PrjCal
 G:\Rangel\Sistemas WEB 2023\PrjCalculadoraWeb\PrjCalculadoraWeb\obj\Debug\PrjCalculadoraWeb.csproj.CoreCompileInputs.cache
 G:\Rangel\Sistemas WEB 2023\PrjCalculadoraWeb\PrjCalculadoraWeb\obj\Debug\PrjCalculadoraWeb.dll
 G:\Rangel\Sistemas WEB 2023\PrjCalculadoraWeb\PrjCalculadoraWeb\obj\Debug\PrjCalculadoraWeb.pdb
+C:\Users\unisanta\Downloads\PrjCalculadoraWeb\PrjCalculadoraWeb\bin\PrjCalculadoraWeb.dll.config
+C:\Users\unisanta\Downloads\PrjCalculadoraWeb\PrjCalculadoraWeb\bin\PrjCalculadoraWeb.dll
+C:\Users\unisanta\Downloads\PrjCalculadoraWeb\PrjCalculadoraWeb\bin\PrjCalculadoraWeb.pdb
+C:\Users\unisanta\Downloads\PrjCalculadoraWeb\PrjCalculadoraWeb\obj\Debug\PrjCalculadoraWeb.csproj.AssemblyReference.cache
+C:\Users\unisanta\Downloads\PrjCalculadoraWeb\PrjCalculadoraWeb\obj\Debug\PrjCalculadoraWeb.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Downloads\PrjCalculadoraWeb\PrjCalculadoraWeb\obj\Debug\PrjCalculadoraWeb.dll
+C:\Users\unisanta\Downloads\PrjCalculadoraWeb\PrjCalculadoraWeb\obj\Debug\PrjCalculadoraWeb.pdb
